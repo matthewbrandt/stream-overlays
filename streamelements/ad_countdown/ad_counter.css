@@ -69,7 +69,7 @@ body {
 }
 
 .base-timer {
-	position: relative;
+	position: fixed;
 	width: 500px;
 	height: 500px;
 }
@@ -142,10 +142,9 @@ body {
 }
 
 #countdown {
-  height: 1411px;
-  width: 2524px;
-  border: 10px solid transparent;
+  height: 1420px;
+  width: 2540px;
+  border: 20px solid transparent;
   position: fixed;
   animation: blink .5s step-end infinite alternate;
-
 }

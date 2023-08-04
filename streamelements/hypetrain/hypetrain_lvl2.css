@@ -55,11 +55,10 @@ table {
 }
 
 .rainbow {
-  height: 1391px;
-  width: 2504px;
+  height: 1400px;
+  width: 2520px;
   border: 20px solid transparent;
   position: fixed;
   font-family: monospace;
   animation: blink .3s step-end infinite alternate;
-
 }

@@ -55,11 +55,10 @@ table {
 }
 
 .alert {
-  height: 1351px;
-  width: 2464px;
+  height: 1360px;
+  width: 2480px;
   border: 40px solid transparent;
   position: fixed;
   font-family: monospace;
   animation: blink 1s step-end infinite alternate;
-
 }
